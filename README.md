@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ezequielsirne/ezequielsirne/master/GitHub_Background.jpg" width="100%" title="Intro Card" alt="Intro Card">
+</p>
 
 
 ```javascript
