@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>I'm a <span style="color: #df3079; font-weight: bold;">.net</span> and <span style="color: #df3079; font-weight: bold;">javascript</span> developer and an AI enthusiast.</p>
+I'm a <span style="color: #df3079; font-weight: bold;">.net</span> and <span style="color: #df3079; font-weight: bold;">javascript</span> developer and an AI enthusiast.
 <p>Here you can see some of my <span style="color: #df3079; font-weight: bold;">projects</span> and the <span style="color: #df3079; font-weight: bold;">technologies</span> I work with.</p>
 
 ```javascript
