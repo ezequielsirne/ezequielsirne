@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ezequielsirne/ezequielsirne/main/GitHub_Background.jpg" width="100%" title="Intro Card" alt="Intro Card">
+  <a href="https://ezequielsirne.github.io/portfolio/" target="_blank">
+    <img src="https://raw.githubusercontent.com/ezequielsirne/ezequielsirne/main/GitHub_Background.jpg" width="100%" title="Intro Card" alt="Intro Card">
+  </a>
 </p>
 
 
