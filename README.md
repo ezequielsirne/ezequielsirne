@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**ezequielsirne/ezequielsirne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I'm a <span style="color: #df3079; font-weight: bold;">.net</span> and <span style="color: #df3079; font-weight: bold;">javascript</span> developer and an AI enthusiast.</p>
+<p>Here you can see some of my <span style="color: #df3079; font-weight: bold;">projects</span> and the <span style="color: #df3079; font-weight: bold;">technologies</span> I work with.</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const aboutMe = {
+   name: "Ezequiel Sirne",
+   code: [ CSharp, Javascript, Typescript, HTML, CSS, Python ],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Angular"],
+         css: ["Bootstrap", "Prime"],
+      },
+      backEnd: {
+         csharp: ["Asp.net Core"],
+         js: ["Node", "Express"],
+      },
+      databases: [ "mySQL", "SQLServer", "MongoDB" ],
+      mobile: ["Android", "IOS"]
+   },
+   currentOccupation: ["freelance software development, open for job opportunities"],
+};
+```
+</br></br>
